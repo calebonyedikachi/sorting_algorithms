@@ -1,3 +1,9 @@
+/**
+ *The big O notations of the time complexity of the Insertion sort algorithm
+ * For the best case
+ *in the average case
+* in the worst case respectively on a new line are as follows:
+ */
 O(n)
 O(n^2)
 O(n^2)
