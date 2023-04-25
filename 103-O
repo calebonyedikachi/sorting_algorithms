@@ -1,4 +1,10 @@
-
+/**
+ *The big O notations of the time complexity of the merge sort algorithm
+ * For the best case
+ *For the average case
+*For the worst case respectively on a new line are as follows:
+* in the worst case respectively on a new line are as follows:
+ */
 O(nlog(n))
 O(nlog(n))
 O(nlog(n))
