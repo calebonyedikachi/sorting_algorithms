@@ -21,3 +21,8 @@
 - All your header files should be include guarded
 - A list/array does not need to be sorted if its size is less than 2.
  
+ # AUTHOR
+**👤 Engr. Caleb Onyedikachi Ugwoke**
+> **calebugwoke@gmail.com**
+📞 **+234 (0) 8136 298 531**
+
